@@ -1,14 +1,12 @@
 .banner {
   color: white;
   object-fit: contain;
-  height: 448px;
   position: relative;
 }
 
 .banner__contents {
   margin-left: 30px;
   padding-top: 140px;
-  /* height: 190px; */
 }
 .banner__title {
   font-size: 3rem;
@@ -21,7 +19,6 @@
   padding-top: 1rem;
   font-size: 1rem;
   max-width: 360px;
-  /* height: 80px; */
 }
 .banner__button {
   cursor: pointer;
